@@ -1,4 +1,4 @@
-# Biscuitt Cake Recipe
+# Biscuit Cake Recipe
 
 ## Görev
 
