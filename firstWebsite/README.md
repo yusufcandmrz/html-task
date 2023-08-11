@@ -29,6 +29,8 @@ Bir önceki ödevimizde ilk web sayfamızı yapıp bunu kişisel sayfamız olara
 - Bunları sıralarken film ve dizilerin en az bir tanesine IMDb linki, kitapların bir tanesine de** Goodreads linkini** yazınız.
 - Kurduğunuz yapılarda block, inline gibi elementler kullanmaya çalışın.
 
+Bu ödevde HTML öğelerini nasıl kullanırız, bir yapıyı nasıl oluştururuz onu gördük. Sıradaki dersimize devam edelim ve bir sonraki ödevi iple çekelim. Ödevleri sevelim, bağrımıza basalım.
+
 ## Ekran Görüntüleri
 
 ![firstWebsiteII](https://github.com/yusufcandmrz/html-tasks/assets/93606208/19431d4e-c8d8-41d7-b563-ee891de06a27)
